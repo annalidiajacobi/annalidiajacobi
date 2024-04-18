@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-md-medium: "Plus Jakarta Sans";
+  --font-urbanist: Urbanist;
+
+  /* font sizes */
+  --text-md-medium-size: 16px;
+  --text-3xl-extrabold-size: 36px;
+  --font-size-10xl: 29px;
+  --font-size-3xl: 22px;
+  --text-2xl-extrabold-size: 30px;
+  --text-sm-semibold-size: 14px;
+  --text-5xl-bold-size: 60px;
+
+  /* Colors */
+  --secondary-dark-grey-600: #68769f;
+  --secondary-dark-grey-900: #1b2559;
+  --primary-purple-blue-500: #4318ff;
+
+  /* Gaps */
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-2xl: 21px;
+  --padding-7xs: 6px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
